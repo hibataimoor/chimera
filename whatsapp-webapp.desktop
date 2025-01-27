@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=WhatsApp
+GenericName=WhatsApp
+Comment=WhatsApp Webapp
+Exec=/usr/bin/firefox --new-window https://web.whatsapp.com/
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Categories=Network;Application;
+Keywords=WhatsApp;webapp;
+X-Ubuntu-Gettext-Domain=WhatsApp
+StartupWMClass=web.whatsapp.com
